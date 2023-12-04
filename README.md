@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Bruno, futuro engenheiro de ML e IA</h1>
 <h3 align="center">Apaixonado por IA, dados e Machine Learning</h3>
 
-- 🔭 Atualmente estou trabalhando em **Portfólio de projetos de ciência de dados**
+- 🔭 Atualmente estou trabalhando em [Portfólio de projetos de ciência de dados](https://github.com/Beh04/portfolio)
 
-- 🌱 Estou atualmente aprendendo **Python, Machine Learning, Tensorflow, AWS**
+- 🌱 Estou atualmente aprendendo **Python, Machine Learning, Tensorflow**
 
 - 💬 Me pergunte sobre **tecnologia, IA, dados**
 
