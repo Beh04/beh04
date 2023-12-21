@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em [Portfólio de projetos de ciência de dados](https://github.com/Beh04/portfolio)
 
-- 🌱 Estou atualmente aprendendo **Python, Machine Learning, Tensorflow**
+- 🌱 Estou atualmente aprendendo **Python, Machine Learning, Tensorflow, SQL Server, AWS**
 
 - 💬 Me pergunte sobre **tecnologia, IA, dados**
 
