@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Bruno, futuro engenheiro de ML e IA</h1>
+<h1 align="center">Oi 👋, Eu sou Bruno</h1>
 <h3 align="center">Apaixonado por IA, dados e Machine Learning</h3>
 <h3 align="center">Estudante de Banco de Dados na Faculdade Impacta Tecnologia</h3>
 
